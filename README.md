@@ -1,19 +1,19 @@
 # ConvertToPNG
 
 ## Description
-ChangeToPNG is a simple GUI application that allows users to convert WEBP images to PNG format easily. 
+ConvertToPNG is a simple GUI application that allows users to convert WEBP images to PNG format easily. 
 
 ## Features
 - Quick conversion of WEBP images to PNG format.
 - Ability to choose the save location for the converted images.
 
 ## Installation
-To run ChangeToPNG, you'll need to have Python installed on your computer. <br/>Additionally, this application depends on the `PIL` (Pillow) library for image processing.
+To run ConvertToPNG, you'll need to have Python installed on your computer. <br/>Additionally, this application depends on the `PIL` (Pillow) library for image processing.
 
 ### Installation and Running the Application
 
 1. **Downloading the Application**:
-   - Visit the GitHub repository: [ChangeToPNG GitHub](https://github.com/diligencefrozen/ChangeToPNG).
+   - Visit the GitHub repository: [ConvertToPNG GitHub](https://github.com/diligencefrozen/ConvertToPNG).
    - Download the source code by clicking on 'Code' and then 'Download ZIP'.
    - Extract the ZIP file to a folder on your computer.
 
@@ -27,13 +27,13 @@ To run ChangeToPNG, you'll need to have Python installed on your computer. <br/>
 
 4. **Running the Application**:
    - Navigate to the folder where you extracted the application.
-   - Double-click on `ChangeToPNG.py` to run the application. <br/>If it doesn't open, right-click on the file, select 'Open with' and choose Python.
-   - Alternatively, you can also run the application from the terminal <br/>or command prompt by navigating to the application's folder and typing `python ChangeToPNG.py`.
+   - Double-click on `ConvertToPNG.py` to run the application. <br/>If it doesn't open, right-click on the file, select 'Open with' and choose Python.
+   - Alternatively, you can also run the application from the terminal <br/>or command prompt by navigating to the application's folder and typing `python ConvertToPNG.py`.
 
-Now you're ready to use the ChangeToPNG application to convert your WEBP images to PNG format!
+Now you're ready to use the ConvertToPNG application to convert your WEBP images to PNG format!
 
 ## Usage
-Upon launching ChangeToPNG, follow these simple steps:
+Upon launching ConvertToPNG, follow these simple steps:
 1. Click on the 'Select a WEBP image' button.
 2. Navigate to and select the WEBP file you want to convert.
 3. Choose the location to save the converted PNG file.
