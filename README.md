@@ -40,5 +40,5 @@ Upon launching ConvertToPNG, follow these simple steps:
 4. The application will convert the file and display a success message upon completion.
 
 ## Contributing
-Contributions to the ChangeToPNG project are welcome. <br/>If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
+Contributions to the ConvertToPNG project are welcome. <br/>If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
