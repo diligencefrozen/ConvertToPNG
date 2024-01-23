@@ -18,8 +18,7 @@ To run ConvertToPNG, you'll need to have Python installed on your computer. <br/
 - Tkinter 
 
 ### Setup
-1. Clone the repository or download the source code:<br/>git clone <a href="https://github.com/diligencefrozen/ConvertToPNG.git">https://github.com/diligencefrozen/ConvertToPNG.git</a><br/>
-2. Install the required packages:<br/>
+1. Install the required packages:<br/>
 
 ## Usage
 Upon launching ConvertToPNG, follow these simple steps:
